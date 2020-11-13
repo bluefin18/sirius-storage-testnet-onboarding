@@ -8,9 +8,9 @@ This onboarding will help users to operate as Sirius Storage Drive Owner Node an
 A [Storage Replicator Node (SRN)](https://storagedocs.xpxsirius.io/docs/roles/replicator/) node has 2 roles:
 
 1) replicator: store SDN data.
-2) verifier: checking that data is untouched and safe
+2) verifier: check the integrity of data stored and safe
 
-For better understand how the Sirius Storage works, it will be worthwhile reading the [online sirius storage documentation](https://storagedocs.xpxsirius.io/) 
+To better understand how the Sirius Storage works, it will be worthwhile reading the [online sirius storage documentation](https://storagedocs.xpxsirius.io/) 
 
 
 ## OS Requirements
