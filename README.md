@@ -3,9 +3,9 @@
 ## Basic Overview
 This onboarding will help users to operate as Sirius Storage Drive Owner Node and/or Sirius Storage Replicator Node.
 
-[Drive Owner](https://storagedocs.xpxsirius.io/docs/roles/owner/) is an owner who initiates files storage in the DFMS network.  
+[Sirius Driector Node (SDN)](https://storagedocs.xpxsirius.io/docs/roles/owner/) is an owner who initiates files storage in the DFMS network.  
 
-[Replicator](https://storagedocs.xpxsirius.io/docs/roles/replicator/) node has 2 roles:
+[Sirius Replicator Node (SRN)](https://storagedocs.xpxsirius.io/docs/roles/replicator/)  has 2 roles:
 
 1) replicator: store drive owner's data for payment.
 2) verifier: checking that data is untouched and safe
